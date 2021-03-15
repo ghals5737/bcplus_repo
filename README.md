@@ -6,6 +6,8 @@ This calendar make you to manage your private calendar and group calendar.
 
 And also this calendar help you to collaborate with your team mate more easily.
 
+[자세한 정보보기](https://www.notion.so/kimmysh/P-S-Private-Secretary-2020-10-12-2020-11-20-9a6d92ea90a546cc95ffee6ffedd6f2c).
+
 ## How To Install
 
 You don't need to install.
